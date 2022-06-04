@@ -64,23 +64,14 @@ export const Work = [
         github:"https://github.com/JavierMills/NFTs",        
     },
     {
-        id:7,
-        name:"App Nfts Collection",
+        id:8,
+        name:"App Geolocalization",
         description:"A reponsive navbar menu component in ReactJS with react-router functionalities",
-        tags:["React","API","Axios"],
+        tags:["Angular","TypeScript","MapBox"],
         
-        demo:"https://deploy-ntfs.vercel.app/",
-        github:"https://github.com/JavierMills/NFTs",        
-    },  {
-        id:7,
-        name:"App Nfts Collection",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities",
-        tags:["React","API","Axios"],
-        
-        demo:"https://deploy-ntfs.vercel.app/",
-        github:"https://github.com/JavierMills/NFTs",        
-    },
-    
+        demo:"https://geolocalizacion-angular.vercel.app/",
+        github:"https://github.com/JavierMills/geolocalizacionAngular",        
+    }, 
     
     
   
