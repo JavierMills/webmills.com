@@ -1,0 +1,98 @@
+{
+    "Bitacora_en_Bolsas":[
+        
+    {
+        "Folio Solicitud": 44,
+        "Solicito": "Ramiro Javier",
+        "Estatus": "PENDIENTE",
+        "Bolsa_Anterior": 96433,
+        "NuevaBolsa": 6533,
+        "Monto_Nueva_Bolsa":99333400,
+        "Programa":"PYME Comex",
+        "Etiqueta_Asignada":"BX04",
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 900222,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 44,
+        "Solicito": "Ramiro",
+        "Estatus": "AUTORIZADO",
+        "Bolsa_Anterior": 8000,
+        "NuevaBolsa": 4563,
+        "Monto_Nueva_Bolsa":1242,
+        "Programa":"GRANDES EMPRESAS",
+        "Etiqueta_Asignada":"BX09",
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 1200,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 42,
+        "Solicito": "Maria Fernanda",
+        "Estatus": "AUTORIZADO",
+        "Bolsa_Anterior": 3211,
+        "NuevaBolsa": 4511,
+        "Monto_Nueva_Bolsa":98333,
+        "Programa":"TURISMO",
+        "Etiqueta_Asignada":12599,
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 2366,
+        "Garantia_ALTAIR_Dolares": 2366,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 34,
+        "Solicito": "fERNANDA",
+        "Estatus": "AUTORIZADO",
+        "Bolsa_Anterior": 3344,
+        "NuevaBolsa": 0093,
+        "Monto_Nueva_Bolsa":1788,
+        "Programa":"GRANDES EMPRESAS",
+        "Etiqueta_Asignada":"BX09",
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 900222,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 56,
+        "Solicito": "Ramiro Javier Martinez",
+        "Estatus": "PENDIENTE",
+        "Bolsa_Anterior": 96433,
+        "NuevaBolsa": 933,
+        "Monto_Nueva_Bolsa":2311,
+        "Programa":"PYME Comex",
+        "Etiqueta_Asignada":411,
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 911,
+        "Garantia_ALTAIR_Dolares": 900,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      },
+      {
+        "Folio Solicitud": 12,
+        "Solicito": "Ramiro",
+        "Estatus": "PENDIENTE",
+        "Bolsa_Anterior": 96433,
+        "NuevaBolsa": 6533,
+        "Monto_Nueva_Bolsa":99333400,
+        "Programa":"PYME Comex",
+        "Etiqueta_Asignada":200000,
+        "Moneda": "PESOS/DOLARES",
+        "Garantia_ALTAIR_Pesos": 900222,
+        "Garantia_ALTAIR_Dolares": 984432,
+        "Fecha_Solicitud": "2019/09/04 ",
+        "Detalle": ""
+      }
+       
+   
+]
+    
+}
